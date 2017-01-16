@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyObserver</string>
+    <string name="activity_main_name">请输入姓名</string>
+</resources>
